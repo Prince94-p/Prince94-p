@@ -14,7 +14,6 @@
 
 💻 Passionate Frontend Developer
 
-🚀 I enjoy building real-world web applications and exploring AI, IoT, and modern technologies.
 
 
 
