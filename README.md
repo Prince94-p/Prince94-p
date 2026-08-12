@@ -19,9 +19,6 @@
 
 ---
 
-
-
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -36,8 +33,8 @@
 
 </p>
 
-📧 **Email:** princepatel98798@gmail.com
-*8Contact** - 9974638984
+📧 **Email:** princepatel98798@gmail.com  
+📞 **Contact:** 9974638984
 
 
 
