@@ -34,7 +34,7 @@
 </p>
 
 📧 **Email:** princepatel98798@gmail.com  
-📞 **Contact:** 9974638984
+
 
 
 
