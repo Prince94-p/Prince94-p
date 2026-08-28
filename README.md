@@ -49,18 +49,6 @@ Currently exploring
 
 ---
 
-<br>
-
-### CURRENT FOCUS
-
-**01** &nbsp; Frontend Engineering  
-**02** &nbsp; Data Structures & Algorithms  
-**03** &nbsp; Backend Fundamentals  
-**04** &nbsp; AI-Powered Development
-
-<br><br>
-
----
 
 <br>
 
