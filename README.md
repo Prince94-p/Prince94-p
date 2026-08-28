@@ -4,11 +4,28 @@
 
 # P R I N C E &nbsp; P A T E L
 
-### SOFTWARE · DESIGN · ENGINEERING
+### FRONTEND · SOFTWARE · ENGINEERING
 
 <br>
 
-<sup>COMPUTER ENGINEERING</sup>
+<sub>COMPUTER ENGINEERING STUDENT</sub>
+
+<br><br><br>
+
+---
+
+<br>
+
+### PROFILE
+
+Frontend Development  
+React · JavaScript · C++ · Java
+
+<br>
+
+Currently exploring
+
+**Full Stack · DSA · AI Development**
 
 <br><br>
 
@@ -16,18 +33,17 @@
 
 <br>
 
-### SELECTED TECHNOLOGIES
+### TECHNOLOGY
 
-`C++` &nbsp;&nbsp; `JAVA` &nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp; `REACT`
+`HTML` &nbsp;&nbsp;&nbsp; `CSS` &nbsp;&nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp;&nbsp; `REACT`
 
-`NODE.JS` &nbsp;&nbsp; `FIREBASE` &nbsp;&nbsp; `GIT`
+<br>
 
-<br><br>
+`TAILWIND` &nbsp;&nbsp;&nbsp; `NODE.JS` &nbsp;&nbsp;&nbsp; `EXPRESS` &nbsp;&nbsp;&nbsp; `FIREBASE`
 
-### CURRENT DIRECTION
+<br>
 
-**FRONTEND ENGINEERING**  
-Full-Stack Systems · DSA · AI Development
+`C++` &nbsp;&nbsp;&nbsp; `JAVA` &nbsp;&nbsp;&nbsp; `GIT` &nbsp;&nbsp;&nbsp; `GITHUB`
 
 <br><br>
 
@@ -35,13 +51,20 @@ Full-Stack Systems · DSA · AI Development
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p&theme=minimal&hide_border=true&hide_title=true" width="88%"/>
+### CURRENT FOCUS
 
-<br>
+**01** &nbsp; Frontend Engineering  
+**02** &nbsp; Data Structures & Algorithms  
+**03** &nbsp; Backend Fundamentals  
+**04** &nbsp; AI-Powered Development
+
+<br><br>
 
 ---
 
 <br>
+
+### ONLINE
 
 <a href="https://prince94-p.github.io/portfolio1/">PORTFOLIO</a>
 &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
@@ -49,7 +72,7 @@ Full-Stack Systems · DSA · AI Development
 &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
 <a href="mailto:princepatel98798@gmail.com">CONTACT</a>
 
-<br><br>
+<br><br><br>
 
 <sub>INDIA · 2026</sub>
 
