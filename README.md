@@ -64,6 +64,19 @@ Currently exploring
 
 <br>
 
+### ACTIVITY
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p&theme=github-compact&hide_border=true"
+  width="90%"
+/>
+
+<br><br>
+
+---
+
+<br>
+
 ### ONLINE
 
 <a href="https://prince94-p.github.io/portfolio1/">PORTFOLIO</a>
@@ -71,10 +84,6 @@ Currently exploring
 <a href="https://github.com/Prince94-p">GITHUB</a>
 &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
 <a href="mailto:princepatel98798@gmail.com">CONTACT</a>
-
-<br><br><br>
-
-<sub>INDIA · 2026</sub>
 
 <br><br>
 
