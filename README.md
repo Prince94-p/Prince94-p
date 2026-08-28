@@ -67,7 +67,7 @@ Currently exploring
 ### ACTIVITY
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p&theme=github-compact&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p"
   width="90%"
 />
 
