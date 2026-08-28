@@ -64,10 +64,10 @@ Currently exploring
 
 <br>
 
-### ACTIVITY
+### CONTRIBUTIONS
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince94-p&theme=github_dark"
+  src="https://ghchart.rshah.org/2563EB/Prince94-p"
   width="90%"
 />
 
