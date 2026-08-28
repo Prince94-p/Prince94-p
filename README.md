@@ -64,11 +64,11 @@ Currently exploring
 
 <br>
 
-### LAST 10 DAYS
+### CONTRIBUTIONS
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p&days=10&bg_color=0d1117&color=8b949e&title_color=58a6ff&line=2f81f7&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&grid=false&custom_title=Last%2010%20Days"
-  width="95%"
+  src="https://ghchart.rshah.org/2563EB/Prince94-p"
+  width="90%"
 />
 
 <br><br>
