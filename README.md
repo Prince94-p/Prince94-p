@@ -67,7 +67,7 @@ Currently exploring
 ### ACTIVITY
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince94-p&theme=github_dark"
   width="90%"
 />
 
@@ -85,6 +85,6 @@ Currently exploring
 &nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
 <a href="mailto:princepatel98798@gmail.com">CONTACT</a>
 
-<br><br>
+<br><br><br>
 
 </div>
