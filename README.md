@@ -2,114 +2,103 @@
 
 ```
     ____  ____  ____ _   __ ______ ______
-   / __ \/ __ \/ __ \ | / // ____// ____/
-  / /_/ / /_/ / / / / |/ // /    / __/   
- / ____/ _, _/ /_/ / /|  // /___/ /___   
-/_/   /_/ |_|\____/_/ |_/ \____/_____/   
-                                          
-        P A T E L   ::   BOOTING...
+   / __ \/ __ \/  _/ | / // ____// ____/
+  / /_/ / /_/ // //  |/ / /   / __/   
+ / ____/ _, _// // /|  / /___/ /___   
+/_/   /_/ |_/___/_/ |_/\____/_____/   
 ```
+
+<sub>~ frontend developer · computer engineering student ~</sub>
 
 </div>
 
 <br>
 
-```bash
-prince@dev:~$ whoami
-> Computer Engineering student. Frontend by trade, engineer by mindset.
+## `prince@dev` — neofetch
 
-prince@dev:~$ cat status.log
-[OK]     Frontend Development ........... loaded
-[OK]     React / JavaScript ............. loaded
-[OK]     C++ / Java (problem solving) ... loaded
-[LOADING] Full Stack ..................... 62%
-[LOADING] Data Structures & Algorithms ... 47%
-[LOADING] AI Development ................. 23%
-[INFO]   These will never hit 100%. That's the job.
-
-prince@dev:~$ █
+```
+        .---.              prince@dev
+       /     \             ------------------
+       \.@-@./             OS: Frontend Engineer (React build)
+       /`\_/`\             Host: Computer Engineering, batch in progress
+      //  _  \\            Kernel: JavaScript ES2023
+     | \     )|_           Shell: bash + a lot of console.log
+    /`\_`>  <_/ \          Theme: Tailwind [Dark]
+    \__/'---'\__/          CPU: C++ / Java (problem solving core)
+                            Memory: DSA — 47% allocated, rising
+                            Status: compiling full-stack, debug mode: AI Dev
 ```
 
 <br>
 
-## `// stack.config`
+## `// skills.sh --verbose`
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+```
+React                █████████████████░░░ 88%
+JavaScript           █████████████████░░░ 85%
+HTML / CSS / Tailwind██████████████████░░ 90%
+C++                  ███████████████░░░░░ 75%
+Java                 ██████████████░░░░░░ 70%
+Node.js / Express    █████████████░░░░░░░ 65%
+Firebase             ████████████░░░░░░░░ 60%
+Full Stack           ███████████░░░░░░░░░ 55%
+Data Structures/Algo █████████░░░░░░░░░░░ 47%
+AI Development       █████░░░░░░░░░░░░░░░ 25% (climbing)
+```
 
-**compiled with**
+<br>
+
+## `// timeline.log`
+
+```
+main
+ │
+ ●  learned HTML / CSS — "so this is how the web actually works"
+ │
+ ●  picked up JavaScript — things started making sense
+ │
+ ●  went deep on React — components clicked, no going back
+ │
+ ●  added Tailwind + Node/Express/Firebase — frontend became full-ish stack
+ │
+ ●─┐ branch: dsa-and-algorithms
+ │ │  grinding problems, slowly rewiring how I think
+ │ ●
+ │
+ ●─┐ branch: ai-development
+ │ │  new territory, mostly questions right now, that's fine
+ │ ●
+ │
+ ◉  HEAD -> still building, still debugging
+```
+
+<br>
+
+## `// mindset.diff`
+
 ```diff
-+ HTML       ▸ structure
-+ CSS        ▸ tailwind, no excuses
-+ JavaScript ▸ the actual job
-+ React      ▸ components > chaos
-```
+- I know everything about frontend
++ I know React well and I'm still finding its edges
 
-</td>
-<td valign="top" width="50%">
+- DSA is just interview prep
++ DSA is how I stopped writing code that merely "works"
 
-**runs on**
-```diff
-+ Node.js    ▸ server side
-+ Express    ▸ routes that work
-+ Firebase   ▸ auth + db, fast
-+ Git/GitHub ▸ ctrl+z for life
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>base languages: <code>C++</code> · <code>Java</code> — where the actual thinking happens</sub>
-</div>
-
-<br>
-
-## `// commit_history.md`
-
-<table align="center">
-<tr><td>
-
-```
-* feat(frontend): shipped first real React app
-* refactor(brain): started learning DSA properly
-* wip(fullstack): backend no longer scares me
-* experiment(ai): poking at AI dev, mostly confused
-* chore(life): still figuring out the rest
-```
-
-</td></tr>
-</table>
-
-<br>
-
-## `// currently.json`
-
-```json
-{
-  "building": "things that break less every week",
-  "learning": ["DSA", "Full Stack", "AI Development"],
-  "debugging": "my own assumptions",
-  "open_to": ["collaboration", "internships", "good arguments about tabs vs spaces"]
-}
+- AI development is a buzzword on my resume
++ AI development is the thing I open tabs about at 1am
 ```
 
 <br>
 
 <div align="center">
 
-## `// connect.sh`
+## `// reach.out`
 
-```bash
-$ open portfolio   → https://prince94-p.github.io/portfolio1/
-$ open github      → https://github.com/Prince94-p
-$ open mail        → princepatel98798@gmail.com
-```
+| | |
+|---|---|
+| 🌐 Portfolio | [prince94-p.github.io/portfolio1](https://prince94-p.github.io/portfolio1/) |
+| 💻 GitHub | [github.com/Prince94-p](https://github.com/Prince94-p) |
+| ✉️ Email | [princepatel98798@gmail.com](mailto:princepatel98798@gmail.com) |
 
-<br>
-
-<sub>compiled without errors · 0 warnings · runtime: ongoing</sub>
+<sub>build passing · last deploy: today · next feature: unknown</sub>
 
 </div>
