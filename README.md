@@ -10,17 +10,6 @@ Frontend Developer &nbsp;•&nbsp; Full Stack Explorer &nbsp;•&nbsp; Computer 
 
 <br>
 
-### CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince94-p&theme=github-dark&hide_border=true&area=true" width="100%"/>
-
-<sub>Consistency over intensity.</sub>
-
-</div>
-
-<br>
 
 ### CURRENT QUEST
 
