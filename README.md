@@ -1,78 +1,75 @@
 <div align="center">
 
-### `</>`
+Hey, I’m Prince Patel 👋
 
-# ❮ &nbsp; PRINCE PATEL &nbsp; ❯
+Computer Engineering Student | Full Stack Developer | AI Explorer
 
-Frontend Developer &nbsp;•&nbsp; Full Stack Explorer &nbsp;•&nbsp; Computer Engineering
+Building digital products, experimenting with emerging technologies, and turning ideas into working applications.
 
+<br/>
+<a href="https://prince94-p.github.io/portfolio1/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Prince94-p">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
-<br>
+⸻
 
+About Me
 
-### CURRENT QUEST
+* 🎓 Computer Engineering student at CHARUSAT.
+* 💻 Interested in Full Stack Development and Software Engineering.
+* 🤖 Exploring AI, LLMs, and AI-powered applications.
+* 🚀 Passionate about building useful digital experiences.
+* 🧠 Always learning, experimenting, and improving.
 
-- 🎯 Building modern web applications
-- 🎯 Learning DSA and Full Stack Development
-- 🎯 Exploring AI Development
+⸻
 
-<br>
+Tech Stack
 
----
+Frontend Development
 
-### TECH INVENTORY
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+Backend & Database
 
-**FRONTEND**
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
 
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
+Programming Languages
 
-</td>
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
 
-<td align="center" width="33%">
+Tools & Platforms
 
-**BACKEND**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+⸻
 
-</td>
+Currently Exploring
 
-<td align="center" width="33%">
+* Full Stack Application Development
+* Data Structures & Algorithms
+* Artificial Intelligence & LLM Integration
+* Backend Architecture and APIs
+* Scalable Software Development
 
-**CORE**
+⸻
 
-<img src="https://skillicons.dev/icons?i=cpp,java,git,github" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-### PLAYER STATS
-
-    FRONTEND CRAFT     █████████████████░░░  85%
-    DSA & ALGORITHMS   ████████████░░░░░░░░  60%
-    FULL STACK         ██████████████░░░░░░  70%
-    AI DEVELOPMENT     ████████░░░░░░░░░░░░  40%
-
-<br>
-
----
-
-### CONNECT
+Let’s Connect
 
 <div align="center">
+<a href="https://github.com/Prince94-p">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://prince94-p.github.io/portfolio1/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:princepatel98798@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-| 🌐 PORTFOLIO | 💻 GITHUB | ✉️ EMAIL |
-|:---:|:---:|:---:|
-| [Visit Portfolio](https://prince94-p.github.io/portfolio1/) | [Prince94-p](https://github.com/Prince94-p) | [Say Hello](mailto:princepatel98798@gmail.com) |
-
+Building. Breaking. Learning. Improving.
 
 </div>
